@@ -1,0 +1,9 @@
+test_id,question,expected_status,category,expected_answer,context
+TC001,What is API testing?,200,valid,API testing verifies that an API works correctly and meets requirements,API testing checks endpoints requests responses and expected behavior
+TC002,Explain Python in simple terms,200,valid,Python is a high-level general-purpose programming language,Python is known for its readable syntax and broad range of applications
+TC003,What is SQL?,200,valid,SQL is a language used to manage and query relational databases,SQL supports querying inserting updating and deleting relational database records
+TC004,,400,empty,, 
+TC005,Explain REST API,200,valid,A REST API allows systems to communicate using HTTP methods,REST APIs commonly use GET POST PUT PATCH and DELETE
+TC006,What is backend development?,200,valid,Backend development handles server-side logic data and application services,Backend systems commonly include APIs databases authentication and business logic
+TC007,Explain unit testing,200,valid,Unit testing verifies individual units of software in isolation,Unit tests help detect defects in functions classes or components
+TC008,What is HTTP?,200,valid,HTTP is a protocol for communication between clients and servers,HTTP defines methods status codes headers and message bodies

@@ -1,0 +1,26 @@
+# Môi trường ảo Python
+.venv/
+venv/
+ENV/
+
+# Python & Pytest cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Các file cấu hình IDE / Editor
+.vscode/
+.idea/
+
+# Hệ điều hành
+Thumbs.db
+Desktop.ini
+
+# Công cụ / Thư mục cục bộ tùy chọn
+PortableGit/
+
+# Biến môi trường bảo mật
+.env
+.env.*
+!.env.example
